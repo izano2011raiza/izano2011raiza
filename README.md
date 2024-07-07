@@ -1,8 +1,8 @@
 
 
-## Hello World! 👩🏻‍💻
-*Transformando Bugs em Sorrisos!🐞 🚀*
-*🔍 Especialista em Quality Assurance | Testes de Software 🔍*
+## Olá! Me chamo Maria Raiza 👩🏻‍💻
+*Levando qualidade para o começo do projeto! 🚀*
+*🔍 QA Quality Assurance | Testes de Software 🔍*
 
 
 💁🏻‍♀️ **Sobre mim**
@@ -24,7 +24,6 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-    <img aling="center" alt="git" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div><br/>
 
@@ -52,13 +51,12 @@ Apaixonada por desafios e aprendizado constante, sou uma profissional proativa q
     <img aling="center" alt="junit" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img aling="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
     <img aling="center" alt="cucumber" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white">
-    <img aling="center" alt="cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
-    <img aling="center" alt="swagger" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white">
- </div><br/>
+   
+
 
  <div>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=AlineAreda&show_icons=true&theme=dracula"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineAreda&layout=compact&theme=dracula"/>  
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=izano2011raiza&show_icons=true&theme=dracula"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izano2011raiza&layout=compact&theme=dracula"/>  
 </div>
   
   ### Minhas Redes 🤝 
