@@ -1,13 +1,13 @@
 
 
 ## Olá! Me chamo Maria Raiza 👩🏻‍💻
-*Levando qualidade para o começo do projeto! 🚀*
+*Profissional de QA com Foco Qualidade e Melhoria Contínua*
 *🔍 QA Quality Assurance | Testes de Software 🔍*
 
 
 💁🏻‍♀️ **Sobre mim**
 
-Apaixonada por desafios e aprendizado constante, sou uma profissional proativa que busca soluções inovadoras e entrega resultados de alto valor. Acredito na colaboração e no aprendizado mútuo, sempre buscando contribuir de forma significativa para o crescimento da equipe e da empresa.
+Atuo como QA com foco na pirâmide de testes, realizando testes manuais e automatizados em Web, Mobile e API. Tenho experiência em integração contínua e metodologias ágeis, com participação ativa em cerimônias do Scrum e no alinhamento das regras de negócio. Possuo expertise em ferramentas como Selenium, Cucumber e JUnit, e aplico as melhores práticas de testes no ciclo de vida do software (SDLC) para garantir entregas de alta qualidade. Sou comprometida com a comunicação eficaz e a colaboração em equipe para otimizar processos e resultados.
 
 ### 🚀 Skills
 
